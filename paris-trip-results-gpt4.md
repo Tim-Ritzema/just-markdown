@@ -1,3 +1,18 @@
+## Welcome to Trip Planner Crew
+-------------------------------
+
+From where will you be traveling from?
+Brunswick, Ohio
+
+What are the cities options you are interested in visiting?
+Paris, France
+
+What is the date range you are interested in traveling?
+May 2, 2024 to May 8, 2024
+
+What are some of your high level interests and hobbies?
+food, biking, museums, romantic vistas
+
 ########################
 ## Here is you Trip Plan
 ########################
